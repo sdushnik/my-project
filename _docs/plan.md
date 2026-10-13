@@ -315,4 +315,4 @@ Build and test the core tracking and privacy rules before adding gamification. C
 
 Treat this document as the initial MVP baseline. Avoid adding new features until the release checklist passes with a small test household. After launch, prioritize changes using feedback from real families rather than assumptions.
 
-**Next planning artifact:** a more formal development specification with user stories, acceptance criteria, and a final database/API design based on this scope.
+**Follow-on artifacts:** [_docs/tech-stack.md](./tech-stack.md) (Option A locked) and [_docs/spec.md](./spec.md) (user stories, acceptance criteria, first schema/API).
